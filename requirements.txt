@@ -1,7 +1,6 @@
 pandas
 numpy
 plotly
-json
 nltk
 wordcloud
 streamlit
